@@ -1,0 +1,970 @@
+	Kitchen Products
+29350 : Cookbooks	
+29563 : Kitchen Sink Accessories	
+	Kitchen Fixtures
+29557 : Bar Faucets	
+29558 : Bar Sinks	
+29552 : Garbage Disposals	
+29555 : Hot Water Dispensers	
+10007 : Kitchen Faucets	
+29550 : Kitchen Fixture Parts	
+10008 : Kitchen Sinks	
+29553 : Pot Fillers	
+29554 : Utility Sink Faucets	
+18008 : Utility Sinks	
+29556 : Water Filtration Systems	
+	Major Kitchen Appliances
+10045 : Beer and Wine Refrigerators	
+10020 : Cooktops	
+10018 : Dishwashers	
+29683 : Freezers	
+10035 : Gas Ranges and Electric Ranges	
+29386 : Ice Makers	
+29567 : Major Kitchen Appliance Parts and Accessories	
+10017 : Microwave Ovens	
+10019 : Ovens	
+10016 : Range Hoods and Vents	
+10015 : Refrigerators	
+29387 : Warming Drawers	
+	Small Kitchen Appliances
+10027 : Blenders	
+29388 : Bread Machines	
+29389 : Deep Fryers	
+29390 : Dehydrators	
+29391 : Electric Can Openers	
+10038 : Electric Grills and Skillets	
+29392 : Electric Roaster Ovens	
+29393 : Fondue and Raclette Sets	
+10044 : Food Processors	
+29394 : Hot Plates and Burners	
+29395 : Ice Cream Makers	
+10039 : Juicers	
+10040 : Mixers	
+29697 : Popcorn Makers	
+29396 : Rice Cookers and Food Steamers	
+10041 : Slow Cookers	
+29397 : Small Kitchen Appliance Accessories	
+10042 : Specialty Small Kitchen Appliances	
+29568 : Toaster Ovens	
+10026 : Toasters	
+10043 : Waffle Makers	
+	Coffee and Tea Makers
+29572 : Coffee Grinders	
+29571 : Coffee Makers	
+29569 : Espresso Machines	
+29570  :  French Presses	
+10104 : Kettles	
+29576 : Milk Frothers	
+	Coffee and Tea Maker Accessories
+29574 : Coffee Filters	
+29575 : Tea Infusers and Strainers	
+	Bakeware
+10200 : Baking Dishes	
+10202 : Cake Pans	
+10204 : Cookie Sheets	
+10205 : Cupcake and Muffin Pans	
+10206 : Pie and Tart Pans	
+10207 : Loaf Pans	
+29310 : Bakeware Sets	
+29325 : Candy and Chocolate Molds	
+29326 : Ramekins and Souffle Dishes	
+	Baking Tools
+10203 : Cookie Cutters	
+29311 : Rolling Pins	
+29312 : Cookie Stamps	
+29313 : Cookie Presses	
+29314 : Cooling Racks	
+29315 : Baking Cups	
+29316 : Pastry Brushes	
+29317 : Pastry Bags and Tips	
+29318 : Baking Mats and Liners	
+29319 : Pie Weights	
+29320 : Kitchen Torches	
+29321 : Pastry Scrapers	
+29322 : Pastry Blenders	
+29323 : Sifters	
+29324 : Specialty Baking Tools	
+	Cookware
+29335 : Chafing Dishes	
+10100 : Cookware Sets	
+10101 : Dutch Ovens and Casseroles	
+10102 : Frying Pans and Skillets	
+10103 : Griddles and Grill Pans	
+29559 : Pressure Cookers	
+10108 : Roasting Pans and Racks	
+10106 : Saucepans	
+10107 : Saute Pans	
+10110 : Specialty Cookware	
+10109 : Stockpots	
+29336 : Woks and Stirfry Pans	
+	Cookware Accessories
+29561 : Pot and Pan Lids	
+29562	Steamer Baskets
+	Kitchen and Table Linens
+10001 : Aprons	
+10005 : Dish Towels	
+10037 : Oven Mitts and Pot Holders	
+11400 : Tablecloths	
+11401 : Napkins	
+11402 : Placemats	
+29339 : Table Pads	
+29340 : Table Runners	
+	Kitchen Knives and Accessories
+10400 : Boning Knives	
+10401 : Bread Knives	
+10403 : Chef's Knives	
+10404 : Cheese Knives	
+10405 : Cleavers	
+10406 : Paring Knives	
+10407 : Santoku Knives	
+10408 : Kitchen Shears	
+10409 : Steak Knives	
+10410 : Utility Knives	
+10411 : Cutting Boards	
+10412 : Knife Sharpeners	
+10413 : Knife Sets	
+10414 : Knife Storage	
+29337 : Slicing and Carving Knives	
+29338 : Specialty Knives	
+	Kitchen Tools and Gadgets
+10301 : Can Openers	
+10302 : Colanders and Strainers	
+29564 : Food Slicers	
+10304 : Graters	
+29372 : Ice Trays and Molds	
+10310 : Kitchen Scales	
+29566 : Kitchen Thermometers	
+29565 : Kitchen Timers	
+10306 : Mandolines	
+10307 : Measuring Cups	
+29374 : Measuring Spoons	
+10300 : Mixing Bowls	
+29371 : Peelers and Corers	
+10309 : Salt and Pepper Shakers and Mills	
+29369 : Spoon Rests	
+10311 : Specialty Kitchen Tools	
+29375 : Basters	
+29382 : Food Mills	
+29376 : Garlic Presses	
+29378 : Ice Cream Scoops	
+29379 : Melon Ballers	
+29377 : Mortar and Pestle Sets	
+29384 : Pasta Makers and Accessories	
+29694 : Pizza Cutters	
+29385 : Pizza Pans and Stones	
+29380 : Popsicle Molds	
+29383 : Potato Ricers	
+29381 : Splatter Screens	
+	Cooking Utensils
+29363 : Cooking Spoons	
+29367 : Kitchen Tongs	
+29693 : Cooking Utensil Sets	
+29364 : Ladles	
+29366 : Potato Mashers	
+29362 : Spatulas	
+29365 : Whisks	
+	Kitchen Storage and Organization
+29368 : Cookbook Stands and Recipe Holders	
+29342 : Dinnerware and Stemware Storage	
+10003 : Dish Racks	
+29343 : Flatware Storage	
+10010 : Kitchen Cabinetry	
+10036 : Kitchen Drawer Organizers	
+29361 : Napkin Holders	
+29349 : Pantry and Cabinet Organizers	
+29351 : Paper Towel Holders	
+10024 : Pot Racks and Accessories	
+29352 : Spice Jars and Spice Racks	
+29353 : Utensil Holders and Racks	
+10031 : Wine Racks	
+29354 : Food and Beverage Carriers	
+29359 : Coolers and Ice Chests	
+29357 : Drink Sleeves	
+29360 : Lunch Boxes and Totes	
+29355 : Picnic Baskets	
+29358 : Thermoses	
+29356 : Water Bottles	
+10006 : Food Containers and Storage	
+29344 : Bread Boxes	
+29347 : Dry Food Dispensers	
+29373 : Food Storage Containers	
+29345 : Kitchen Canisters and Jars	
+29348 : Oil and Vinegar Dispensers	
+	Wine and Bar Tools
+29332 : Beer Taps and Dispensers	
+29333 : Carbonators and Soda Siphons	
+29334 : Coasters	
+29331 : Cocktail Shakers and Bar Tool Sets	
+29327 : Decanters	
+29330 : Ice Tools and Buckets	
+29329 : Wine Aerators and Stoppers	
+29328 : Wine and Bottle Openers	
+29692 : Wine Charms and Markers	
+	
+	Tabletop
+	Cups and Glassware
+29652 : Cappuccino and Espresso Cups	
+11201 : Everyday Glasses	
+29660 : Holiday Drinkware	
+11202 : Mugs	
+29659 : Outdoor Drinkware	
+29653 : Teacups	
+11200 : Wine Glasses	
+	Bar Glasses
+29655 : Beer Glasses	
+29657 : Cocktail Glasses	
+29658 : Liquor Glasses	
+29656 : Shot Glasses	
+	Dinnerware
+11103 : Charger Plates	
+29645 : Coffee and Tea Saucers	
+11102 : Dining Bowls	
+11101 : Dinner Plates	
+11100 : Dinnerware Sets	
+29647 : Holiday Dinnerware	
+29646 : Salad and Dessert Plates	
+	Disposable Tableware
+29649 : Disposable Cups	
+29650 : Disposable Plates and Bowls	
+29651 : Disposable Utensils	
+	Flatware
+29661 : Chopsticks	
+29666 : Flatware and Silverware Sets	
+29663 : Forks	
+11302 : Serving Utensils	
+29664 : Spoons	
+29662 : Table Knives	
+	Serveware
+29667 : Beverage Dispensers	
+29668 : Butter Dishes	
+29674 : Carafes	
+29698 : Cheese Boards and Platters	
+29669 : Chip and Dip Sets	
+29670 : Condiment Sets	
+29002 : Dessert and Cake Stands	
+29671 : Egg Cups	
+29672 : Fruit Bowls and Baskets	
+29673 : Gravy Boats	
+29003 : Pitchers	
+29675 : Punch Bowls	
+11300 : Serving and Salad Bowls	
+11301 : Serving Dishes and Platters	
+29001 : Serving Trays	
+29676 : Specialty Serveware	
+29004 : Sugar Bowls and Creamers	
+29677 : Tea Sets	
+29005 : Teapots	
+29678 : Tureens	
+	Tabletop Accessories
+11009 : Napkin Rings	
+29680 : Place Card Holders	
+29681 : Trivets	
+	
+	Bath Products
+12017 : Bathroom Cabinets and Shelves	
+12013 : Bathroom Vanities and Sink Consoles	
+22009 : Medicine Cabinets	
+12018 : Vanity Stools and Benches	
+12015 : Vanity Tops and Side Splashes	
+	Bathroom Accessories
+29175 : Bathroom Accessory Sets	
+29416 : Bathroom Canisters	
+29191 : Bathroom Organizers	
+29176 : Bathroom Scales	
+29177 : Shower Curtain Rings	
+29178 : Shower Curtain Rods	
+12002 : Shower Curtains	
+29179 : Soap & Lotion Dispensers	
+29180 : Soap Dishes & Holders	
+29181 : Tissue Box Holders	
+29185 : Toothbrush Holders	
+12007 : Bath Mats	
+16021 : Kids Bathroom Accessories	
+12016 : Shower Caddies	
+	Toilet Accessories
+29182 : Toilet Brushes & Holders	
+29184 : Toilet Paper Holders	
+29183 : Toilet Plungers & Holders	
+	Bathroom Safety
+29172 : Grab Bars	
+29173 : Shower Benches & Seats	
+29174 : Toilet Safety Accessories	
+	Bathroom Fixtures
+12009 : Bathroom Sinks	
+12010 : Bathtubs	
+12012 : Toilets	
+29423 : Urinals	
+29425 : Bidets	
+29430 : Shower Stalls and Kits	
+29431 : Steam Showers	
+12008 : Bathroom Faucets and Showerheads	
+29419 : Bathroom Sink Faucets	
+29421 : Bathtub Faucets	
+29420 : Bidet Faucets	
+29429 : Shower Panels and Columns	
+12011 : Showerheads and Body Sprays	
+29422 : Tub and Shower Faucet Sets	
+	Bathroom Fixture Parts
+29424 : Bathroom Sink and Faucet Parts	
+29432 : Bidet and Toilet Parts	
+29428 : Shower Doors	
+29427 : Shower Pans and Bases	
+29426 : Showerhead Parts	
+29434 : Toilet Handles and Levers	
+29433 : Toilet Seats	
+29665 : Tub and Shower Parts	
+	Towel Bars and Hooks
+29190 : Robe & Towel Hooks	
+29188 : Towel Bars	
+29186 : Towel Racks & Stands	
+29189 : Towel Rings	
+29187 : Towel Warmers	
+	Towels
+29214 : Bath Towels	
+29215 : Bathrobes	
+29216 : Beach Towels	
+29217 : Kids Towels	
+	
+	Home Decor
+	Clocks
+29106 : Alarm Clocks	
+29107 : Cuckoo Clocks	
+29108 : Desk and Mantel Clocks	
+29109 : Floor and Grandfather Clocks	
+29110 : Wall Clocks	
+29111 : Outdoor Clocks	
+	Decorative Accents
+29114 : Accent and Garden Stools	
+22012 : Baskets	
+29115 : Bookends	
+13016 : Books	
+29130 : Decorative Bowls	
+29129 : Decorative Boxes	
+29691 : Decorative Jars and Urns	
+29218 : Decorative Objects and Figurines	
+13010 : Decorative Pillows	
+29131 : Decorative Plates	
+29113 : Decorative Trunks	
+29118 : Floor Pillows and Poufs	
+13018 : Home Fragrances	
+13004 : Indoor Fountains	
+13011 : Indoor Pots and Planters	
+29116 : Jewelry Boxes and Organizers	
+29117 : Photo Albums	
+13005 : Picture Frames	
+13024 : Plants	
+29132 : Plate Stands and Hangers	
+13023 : Screens and Room Dividers	
+29120 : Slipcovers and Chair Covers	
+29119 : Stained Glass Panels	
+29136 : Telescopes	
+29135 : Terrariums	
+13013 : Throws	
+13014 : Vases	
+29137 : World Globes	
+	Artificial Flowers Plants and Trees
+29133 : Artificial Flower Arrangements	
+29134 : Artificial Plants and Trees	
+	Candles and Candleholders
+29127 : Candles	
+29128 : Candleholders	
+	Game Room and Bar Decor
+29126 : Game Room Wall Art and Signs	
+29125 : Sports and Game Room Memorabilia	
+	Holiday Decorations
+29157 : Holiday Accents and Figurines	
+29158 : Holiday Lighting	
+29159 : Wreaths and Garlands	
+	Christmas Decorations
+29152 : Christmas Ornaments	
+29153 : Christmas Stockings and Holders	
+29154 : Christmas Tree Skirts	
+29155 : Christmas Tree Stands and Care	
+29156 : Christmas Trees	
+	Mirrors
+12001 : Bathroom Mirrors	
+29400 : Floor Mirrors	
+15001 : Makeup Mirrors	
+29399 : Wall Mirrors	
+	Rugs
+29147 : Area Rugs	
+23027 : Doormats	
+29148 : Hall and Stair Runners	
+16017 : Kids Rugs	
+29150 : Novelty Rugs	
+23025 : Outdoor Rugs	
+29194 : Rug Pads	
+29149 : Stair Tread Rugs	
+	Wall Decor
+29690 : Metal Wall Art	
+29160 : Novelty Signs	
+13029 : Prints and Posters	
+29164 : Tapestries	
+29689 : Wall Accents	
+13022 : Wall Decals	
+29589 : Wall Sculptures	
+	Artwork
+29161 : Drawings and Illustrations	
+29165 : Fine Art Prints	
+29162 : Mixed Media Art	
+13028 : Paintings	
+29163 : Photographs	
+13031 : Sculptures	
+14015 : Seat Cushions	
+	
+	Furniture
+14023 : Bookcases	
+	Indoor Benches
+29437 : Accent and Storage Benches	
+22014 : Hall Trees	
+15009 : Upholstered Benches	
+	Assistive Furniture
+29283 : Adjustable Beds	
+29284 : Lift Chairs	
+	Bedroom Furniture
+29285 : Armoires and Wardrobes	
+29286 : Bed Frames	
+29219 : Bedroom & Makeup Vanities	
+29287 : Bedroom Furniture Sets	
+29288 : Blanket and Quilt Racks	
+15012 : Dressers	
+29289 : Jewelry Armoires	
+15015 : Mattresses	
+15011 : Nightstands and Bedside Tables	
+	Beds
+29290 : Bunk Beds	
+29291 : Canopy Beds	
+29292 : Daybeds	
+29296 : Folding Beds	
+29293 : Loft Beds	
+29294 : Murphy Beds	
+29418 : Panel Beds	
+29295 : Platform Beds	
+29297 : Sleigh Beds	
+15010 : Headboards	
+	Futons and Accessories
+15013 : Futons	
+29298 : Futon Covers	
+29299 : Futon Frames	
+29300 : Futon Mattresses	
+	Game Room and Bar Furniture
+29301 : Bean Bag Chairs	
+29170 : Game Table Accessories	
+21901 : Game Tables	
+29302 : Gaming Chairs	
+14025 : Indoor Pub and Bistro Sets	
+14011 : Indoor Pub and Bistro Tables	
+29303 : Theater Seating	
+29304 : Wine and Bar Cabinets	
+	Home Office Furniture
+17001 : Desks and Hutches	
+29305 : Drafting Tables	
+17005 : Filing Cabinets	
+14024 : Office Carts and Stands	
+17002 : Office Chairs	
+	Kitchen and Dining Furniture
+29448 : Baker's Racks	
+14012 : Bar Carts	
+10002 : Bar Stools and Counter Stools	
+14016 : Buffets and Sideboards	
+29449 : China Cabinets and Hutches	
+14022 : Dining Benches	
+14021 : Dining Chairs	
+14020 : Dining Sets	
+14013 : Dining Tables	
+29452 : Folding Chairs and Stools	
+29450 : Folding Tables	
+10032 : Kitchen Islands and Kitchen Carts	
+10022 : Pantry Cabinets	
+29451 : Table Tops and Bases	
+	Living Room Furniture
+29454 : Accent Chests and Cabinets	
+14005 : Footstools and Ottomans	
+29461 : Living Room Furniture Sets	
+	Coffee and Accent Tables
+14006 : Coffee Tables	
+29458 : Coffee Table Sets	
+14027 : Console Tables	
+29459 : Plant Stands and Telephone Tables	
+14007 : Side Tables and End Tables	
+29460 : Tv Trays	
+	Living Room Chairs
+14003 : Armchairs and Accent Chairs	
+16014 : Gliders	
+29463 : Hanging Chairs	
+14004 : Indoor Chaise Lounge Chairs	
+29464 : Massage Chairs	
+29686 : Recliner Chairs	
+14018 : Rocking Chairs	
+29462 : Sleeper Chairs	
+	Sofas and Sectionals
+14002 : Loveseats	
+14001 : Sectional Sofas	
+29456 : Sleeper Sofas	
+14010 : Sofas	
+	Media Storage
+29306 : Entertainment Centers and Tv Stands	
+29307 : Media Racks and Towers	
+29308 : Media Cabinets	
+	Kids Furniture
+29441 : Kids Bedroom Furniture Sets	
+29442 : Kids Bedroom Vanities	
+16004 : Kids Beds	
+29439 : Kids Bookcases	
+16011 : Kids Chairs	
+29440 : Kids Desks and Desk Sets	
+16019 : Kids Dressers and Armoires	
+29445 : Kids Nightstands	
+29443 : Kids Sofas	
+29444 : Kids Step Stools and Stools	
+29446 : Kids Storage Benches and Toy Boxes	
+16010 : Kids Tables and Chairs	
+16016 : Toy Organizers	
+	Nursery Furniture
+29467 : Bed Rails	
+29466 : Changing Table Pads and Covers	
+16002 : Changing Tables	
+29469 : Cradles and Bassinets	
+29470 : Crib Mattresses	
+16001 : Cribs	
+16007 : High Chairs and Booster Seats	
+29468 : Nursery Furniture Sets	
+29471 : Toddler Beds	
+	
+	Bedroom Products
+	Bedding
+16005 : Baby Bedding	
+29436 : Bed Accessories	
+15006 : Bed Pillows	
+15007 : Bedskirts	
+29269 : Blankets	
+29274 : Comforters and Comforter Sets	
+15003 : Duvet Covers and Duvet Sets	
+29270 : Duvet Inserts	
+16008 : Kids Bedding	
+29272 : Mattress Protectors and Covers	
+29271 : Mattress Toppers and Pads	
+29273 : Pillow Protectors	
+15014 : Pillowcases and Shams	
+15004 : Quilts and Quilt Sets	
+29435 : Toddler Bedding	
+	Sheets
+29275 : Fitted Sheets	
+29276 : Flat Sheets	
+29277 : Sheet and Pillowcase Sets	
+	
+	Baby and Kids
+	Kids Decor
+29407 : Growth Charts	
+29410 : Kids Clocks	
+29411 : Kids Hampers	
+29412 : Kids Jewelry Boxes	
+29413 : Kids Mirrors	
+29415 : Kids Room Accessories	
+29414 : Kids Wall Decor	
+29408 : Piggy Banks	
+29409 : Wall Letters	
+	Nursery Decor
+16022 : Baby Gates and Child Safety	
+16020 : Baby Mobiles	
+16003 : Diaper Pails and Stackers	
+	Baby and Kids Tableware
+29402 : Baby Cups and Dishes	
+29403 : Baby and Kids Silverware	
+	Baby and Kids Toys
+16006 : Baby and Toddler Toys	
+29406 : Baby Gyms and Play Mats	
+16015 : Baby Swings and Bouncers	
+16009 : Kids Toys and Games	
+29405 : Playpens	
+	
+	Home Office Accessories
+17007 : Bulletin Boards and Chalkboards	
+17003 : Cable Management	
+29213 : Chair Mats	
+17004 : Desk Accessories	
+	
+	Lighting
+20013 : Ceiling Fans	
+29239 : Ceiling Fan Accessories	
+29261 : Night-lights	
+29246 : Novelty Lighting	
+29247 : Undercabinet Lighting	
+	Ceiling Lighting
+20003 : Chandeliers	
+29267 : Flush-mount Ceiling Lighting	
+20008 : Kitchen Island Lighting	
+20007 : Pendant Lighting	
+29268 : Pool Table Lights	
+29266 : Spot Lights	
+	Recessed Lighting
+29253 : Recessed Housings	
+29254 : Recessed Lighting Kits	
+29255 : Recessed Shower Lighting	
+29256 : Recessed Trims	
+	Track Lighting
+29257 : Track Heads and Pendants	
+29258 : Track Lighting Accessories	
+29259 : Track Lighting Kits	
+29260 : Tracks and Rails	
+	Kids Lighting
+29224 : Kids Ceiling Lighting	
+29225 : Kids Lamps	
+	Lamps
+29228 : Desk Lamps	
+20004 : Floor Lamps	
+29226 : Lamp Sets	
+29227 : Piano Lamps	
+20010 : Table Lamps	
+	Lighting Hardware and Accessories
+29243 : Ceiling Medallions	
+29242 : Lamp Bases	
+20005 : Lamp Shades	
+29245 : Lighting Globes and Shades	
+29241 : Lighting Hardware	
+29244 : Timers and Lighting Controls	
+	Light Bulbs
+29233 : Compact Fluorescent Bulbs	
+29234 : Fluorescent Tubes	
+29235 : Halogen Bulbs	
+29236 : Incandescent Bulbs	
+29237 : Krypton and Xenon Bulbs	
+29238 : Led Bulbs	
+	Outdoor Lighting
+29249 : Outdoor Flood and Spot Lights	
+29248 : Outdoor Flush-mount Ceiling Lighting	
+29588 : Outdoor Hanging Lights	
+29250 : Outdoor Rope and String Lights	
+29251 : Outdoor Wall Lights and Sconces	
+29252 : Post Lights	
+29687 : Outdoor Floor Lamps	
+29688 : Outdoor Table Lamps	
+	Landscape Lighting
+29230 : Deck Lighting	
+29231 : Inground and Well Lights	
+29232 : Path Lights	
+29263 : Stair and Step Lights	
+	Wall Lighting
+20001 : Bathroom Vanity Lighting	
+29262 : Display and Picture Lights	
+29264 : Swing Arm Wall Lamps	
+29265 : Wall Sconces	
+	
+	Window Treatments
+21001 : Curtains	
+29166 : Valances	
+21008 : Curtain Rods	
+29168 : Interior Shutters	
+29167 : Window Film	
+29169 : Window Treatment Accessories	
+	Window Blinds
+21006 : Cellular Shades	
+21004 : Roller Shades	
+21007 : Roman Shades	
+21005 : Venetian Blinds	
+21003 : Vertical Blinds	
+	
+	Storage and Organization
+29644 : Charging Stations	
+29642 : Clothing Valets and Suit Stands	
+22002 : Coatracks and Umbrella Stands	
+29643 : Dresser Valets and Organizers	
+13021 : Magazine Racks	
+14026 : Storage Cabinets	
+29634 : Holiday Storage	
+22010 : Shoe Storage	
+22013 : Storage Bins and Boxes	
+22007 : Wall Hooks	
+29695 : Wall Organizers	
+	Closet Storage
+22004 : Closet Organizers	
+29633 : Clothes Hangers	
+22006 : Clothes Racks	
+	Outdoor Storage
+29636 : Deck Boxes and Storage	
+29637 : Garden Hose Reels	
+29638 : Potting Benches	
+23009 : Sheds	
+29639 : Utility Carts	
+23039 : Garage and Tool Storage	
+	Shelving
+22011 : Display and Wall Shelves	
+29641 : Utility Shelves	
+	
+	Outdoor Products
+29598 : Chimineas	
+29599 : Fire Pit Accessories	
+23007 : Fire Pits	
+29600 : Firewood Racks	
+29617 : Outdoor Fireplaces	
+29618 : Outdoor Fountain and Pond Accessories	
+23022 : Outdoor Fountains and Ponds	
+29596 : Deck Tiles and Planks	
+23012 : Home Fencing and Gates	
+23014 : Landscaping Stones and Pavers	
+29622 : Saunas	
+29590 : Aboveground Swimming Pools	
+29616 : Hot Tubs	
+	Hot Tub and Pool Supplies
+29696 : Outdoor Showers	
+29628 : Pool Chemicals and Cleaning Tools	
+29627 : Pool Pumps and Filters	
+29629 : Pool Toys and Floats	
+29630 : Hot Tub and Pool Accessories	
+	Patio Furniture and Outdoor Furniture
+23032 : Hammocks and Swing Chairs	
+23036 : Outdoor Benches	
+29472 : Hammock Stands and Accessories	
+23004 : Outdoor Umbrellas	
+29626 : Outdoor Umbrella Accessories	
+29490 : Porch Swings	
+	Outdoor Lounge Furniture
+29474 : Adirondack Chairs	
+23037 : Outdoor Chaise Lounges	
+29475 : Outdoor Coffee Tables	
+29476 : Outdoor Folding Chairs	
+29477 : Outdoor Footstools and Ottomans	
+29478 : Outdoor Gliders	
+23035 : Outdoor Lounge Chairs	
+29479 : Outdoor Lounge Sets	
+29480 : Outdoor Loveseats	
+29481 : Outdoor Rocking Chairs	
+29482 : Outdoor Side Tables	
+23034 : Outdoor Sofas	
+	Outdoor Dining Furniture
+29484 : Outdoor Dining Chairs	
+29485 : Outdoor Dining Sets	
+23033 : Outdoor Dining Tables	
+	Outdoor Bar Furniture
+29488 : Outdoor Bar Stools and Counter Stools	
+29486 : Outdoor Pub and Bistro Sets	
+29487 : Outdoor Pub and Bistro Tables	
+29489 : Outdoor Serving Carts	
+	Backyard Play
+23006 : Kids Playsets and Swing Sets	
+29592 : Outdoor and Lawn Games	
+23005 : Outdoor Playhouses	
+29593 : Sandboxes and Sand Toys	
+29595 : Trampoline Accessories	
+29594 : Trampolines	
+	Gardening and Lawn Care
+29602 : Bulbs and Seeds	
+29309 : Compost Bins	
+23023 : Outdoor Pots and Planters	
+23038 : Outdoor Power Equipment	
+29609 : Planter Hardware and Accessories	
+29608 : Sprayers and Spreaders	
+	Watering and Irrigation Equipment
+29610 : Garden Hoses	
+29612 : Rain Barrels	
+29611 : Sprinklers	
+29613 : Watering Cans	
+	Gardening Tools
+29603 : Forks Rakes and Hoes	
+29615 : Gardening Accessories	
+29607 : Gardening Gloves	
+29604 : Gardening Hand Tools	
+29605 : Pruning Tools	
+29606 : Shovels and Spades	
+29614 : Wheelbarrows and Garden Carts	
+	Outdoor Structures
+29624 : Canopies Tents and Awnings	
+23008 : Gazebos	
+23011 : Greenhouses	
+29625 : Pergolas Arbors and Trellises	
+23010 : Prefab Studios	
+	Outdoor Cooking
+29102 : Grill Tools & Accessories	
+29103 : Outdoor Cookers & Fryers	
+23001 : Outdoor Grills	
+29104 : Outdoor Pizza Ovens	
+29105 : Smokers	
+	Outdoor Kitchen Appliances
+29620 : Outdoor Ice Machines	
+29621 : Outdoor Refrigerators	
+	Outdoor Decor
+23029 : Bird Baths	
+23028 : Bird Feeders	
+23030 : Birdhouses	
+29145 : Cupolas	
+29142 : Decorative Thermometers	
+29138 : Flags and Flagpoles	
+23031 : Garden Statues and Yard Art	
+23019 : House Numbers	
+29139 : Mailbox Accessories	
+23020 : Mailboxes	
+23003 : Outdoor Cushions and Pillows	
+29140 : Outdoor Furniture Covers	
+23021 : Outdoor Holiday Decorations	
+29632 : Outdoor Wall Art	
+29141 : Rain Chains	
+29144 : Sundials	
+29631 : Tiki Torches	
+29143 : Weather Vanes	
+29146 : Wind Chimes	
+	
+	Home Improvement
+	Building Materials
+29684 : Bricks and Masonry	
+10011 : Kitchen Countertops	
+29499 : Roofing and Gutters	
+29496 : Siding and Stone Veneer	
+29500 : Stair Parts	
+29501 : Wall Panels	
+	Molding and Millwork
+11504 : Columns and Capitals	
+11501 : Corbels	
+11502 : Molding and Trim	
+11503 : Onlays and Appliques	
+	Windows and Doors
+29498 : Exterior Shutters	
+25002 : Front Doors	
+25001 : Garage Doors and Openers	
+25003 : Interior Doors	
+29497 : Patio Doors	
+25004 : Screen Doors	
+25005 : Skylights	
+25006 : Windows	
+	Electrical Supplies
+29503 : Extension Cords and Power Strips	
+24004 : Switch Plates and Outlet Covers	
+29504 : Switches and Outlets	
+	Flooring
+29491 : Bamboo Flooring	
+19003 : Carpet Tiles	
+29492 : Cork Flooring	
+29493 : Engineered Wood Flooring	
+29494 : Floor Medallions and Inlays	
+19001 : Hardwood Flooring	
+19002 : Laminate Flooring	
+19005 : Vinyl Flooring	
+	Hardware
+24005 : Brackets	
+29520 : Hinges	
+29521 : Nails Screws and Fasteners	
+29522 : Window Hardware and Parts	
+	Cabinet and Drawer Hardware
+24003 : Cabinet and Drawer Handle Pulls	
+24002 : Cabinet and Drawer Knobs	
+	Door Hardware
+29518 : Barn Door Hardware	
+29512 : Door Entry Sets	
+29515 : Door Knockers	
+29513 : Door Levers	
+29516 : Door Locks	
+29517 : Door Stops	
+29511 : Doorbells and Chimes	
+29514 : Doorknobs	
+29519 : Pocket Door Hardware	
+	Heating and Cooling
+29529 : Air Conditioner Accessories	
+28002 : Air Conditioners	
+29530 : Bathroom Exhaust Fans	
+28004 : Electric Fans	
+29531 : Patio Heaters	
+28001 : Space Heaters	
+29532 : Radiators	
+29533 : Registers Grilles and Vents	
+29534 : Thermostats	
+29527 : Tabletop Fireplaces	
+29528 : Freestanding Stoves	
+13027 : Indoor Fireplaces	
+	Fireplace Accessories
+29525 : Fire Starters and Fuel	
+29524 : Fireplace Grates and Andirons	
+13032 : Fireplace Mantels	
+29526 : Fireplace Screens	
+29523 : Fireplace Tools	
+	Humidifiers and Purifiers
+29535 : Air Purifiers	
+29536 : Dehumidifiers	
+29537 : Humidifiers	
+	Home Safety and Security
+29547 : Carbon Monoxide and Smoke Detectors	
+29542 : Emergency and First Aid Kits	
+29544 : Fire Protection	
+29543 : Flashlights	
+29545 : Home Security and Surveillance	
+29546 : Safes	
+	Paint and Wall Covering Supplies
+29538 : Paint	
+29539 : Primers	
+29540 : Stains and Varnishes	
+13025 : Wall Stencils	
+13015 : Wallpaper	
+	Tile
+29505 : Accent Trim and Border Tile	
+29506 : Ceiling Tile	
+29507 : Mosaic Tile	
+29508 : Tile Murals	
+19004 : Wall and Floor Tile	
+	Tools and Equipment
+29222 : Hand Tools and Tool Sets	
+27005 : Ladders and Step Stools	
+29548 : Painting Tools	
+29223 : Power Tools	
+	
+	Fabric
+29122 : Drapery Fabric	
+29123 : Fabric Trim	
+26002 : Outdoor Fabric	
+26001 : Upholstery Fabric	
+	
+	Housekeeping
+29192 : Drawer & Shelf Liners	
+29193 : Furniture Floor Protectors	
+29208 : Sewing Machines	
+	Household Cleaning Supplies
+29199 : Cleaning Buckets	
+29201 : Cleaning Cloths	
+29200 : Cleaning Gloves	
+29195 : Dusters	
+29196 : Household Cleaning Products	
+27002 : Mops Brooms and Dustpans	
+29197 : Scrub Brushes & Sponges	
+29198 : Squeegees	
+	Laundry Products
+18004 : Clotheslines	
+18005 : Drying Racks	
+29682 : Garment Steamers	
+18006 : Hampers	
+18007 : Ironing Board Covers	
+18002 : Ironing Boards	
+18003 : Irons	
+	Laundry Room Appliances
+29205 : Dryers	
+29206 : Washing Machines	
+	Trash & Recycling
+29211 : Outdoor Trash Cans	
+29210 : Recycling Bins	
+10030 : Trash Cans	
+29212 : Trash Compactors	
+13017 : Wastebaskets	
+29346 : Trash and Recycling Accessories	
+	Vacuums & Floor Care
+29203 : Carpet & Steam Cleaners	
+29204 : Vacuum & Floor Care Accessories	
+27003 : Vacuum Cleaners	
+	
+	Lifestyle and Leisure
+21900 : Board Games and Card Games	
+29124 : Darts and Dartboards	
+21902 : Home Gym Equipment	
+	Pet Supplies
+13103 : Fish Supplies	
+13101 : Pet Bowls and Feeding	
+29586 : Pet Doors	
+29587 : Small Pet Supplies	
+29577 : Cat Supplies	
+29578 : Cat Beds	
+29579 : Cat Furniture	
+29580 : Cat Toys	
+29581 : Litter Boxes and Covers	
+29582 : Dog Supplies	
+13100 : Dog Beds	
+29584 : Dog Gates	
+29585 : Dog Houses	
+29583 : Dog Kennels and Crates	
+13102 : Dog Toys	
+	
+13020 : Home Electronics	
